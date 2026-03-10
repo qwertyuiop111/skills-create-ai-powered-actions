@@ -11,9 +11,9 @@
     "@actions/core": "^1.10.0",
     "@vercel/ncc": "^0.38.4",
     "openai": "^6.27.0",
-    "request-promise-native": "^1.0.9"
+    "request-promise-native": "^0.0.0"
   },
   "devDependencies": {
-    "@github/local-action": "^6.0.2"
+    "@github/local-action": "^5.2.0"
   }
 }
